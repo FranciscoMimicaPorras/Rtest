@@ -1,2 +1,3 @@
 # Rtest
 Testing
+print ("ok")
